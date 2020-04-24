@@ -62,7 +62,7 @@ it's details.
 Some GnuCash users collected their knowledge about the best use in our
 ` <https://wiki.gnucash.org/wiki/Quicken_Migration>`__.
 
-For other formats and more details see `??? <#chapter_importing>`__.
+For other formats and more details see :ref:`chapter_importing`.
 
 .. _appendixa_business:
 
@@ -70,7 +70,7 @@ Import of Business Data by CSV Files
 ------------------------------------
 
 If you want to import customers and vendors or bills and invoices see
-`??? <#ch_import_bus_data>`__.
+:ref:`ch_import_bus_data`.
 
 .. _appendixa_xmlconvert1:
 

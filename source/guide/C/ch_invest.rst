@@ -173,8 +173,8 @@ examples of each type.
    relief from selling a house if it is your primary residence, but may
    not receive this tax break on an expensive painting.
 
-   Fixed asset investments are discussed in `??? <#chapter_capgain>`__
-   and `??? <#chapter_dep>`__. Typically, there is not much to do in
+   Fixed asset investments are discussed in :ref:`chapter_capgain`
+   and :ref:`chapter_dep`. Typically, there is not much to do in
    terms of accounting for fixed asset investments except recording the
    buying and selling transactions.
 
@@ -978,7 +978,7 @@ or *Gross Pricing*, please see `Handling Commissions and
 Fees <#invest-buy-com>`__.
 
 If you will be recording a capital gain or loss on the sale, please see
-`??? <#chapter_capgain>`__ and `??? <#chapter_dep>`__ for more
+:ref:`chapter_capgain` and :ref:`chapter_dep` for more
 information on this topic.
 
 To use the GnuCash\ *Automatic Calculation of Capital Gain or Loss Using

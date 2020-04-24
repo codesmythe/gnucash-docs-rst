@@ -608,11 +608,11 @@ A More Complex Transaction
 
 In this example, we will touch a little on some more complicated
 accounting principles. For more details on this subject, please check
-`??? <#chapter_capgain>`__
+:ref:`chapter_capgain`
 
 Here we will only touch on the case when you have accurately estimated
 the current value of your house. For the other cases (over-, and
-under-estimated), please check `??? <#chapter_capgain>`__.
+under-estimated), please check :ref:`chapter_capgain`.
 
 -Assets -Fixed Assets -House -Cost -Unrealized Gain -Current Assets
 -Saving -Income -Realized Gain -House -Unrealized Gain -House

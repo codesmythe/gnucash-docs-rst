@@ -152,7 +152,7 @@ transactions in other accounts. You can enter them manually, or import
 them from your credit card company using a compatible import format.
 
 For assistance with entering transactions, see Chapter 6 of the Help
-manual and `??? <#chapter_txns>`__.
+manual and :ref:`chapter_txns`.
 
 .. _cc-enterpay1:
 

@@ -8,7 +8,7 @@ manage your checkbook with GnuCash. Managing your checkbook register is
 the first step of tracking your finances, and GnuCash makes it much
 easier to manage than the traditional paper register does.
 
-For one thing, as discussed in `??? <#chapter_txns>`__, data entry of
+For one thing, as discussed in :ref:`chapter_txns`, data entry of
 common transactions is practically done for you in GnuCash, because of
 its auto-completion feature. GnuCash keeps a running balance of each
 account, and it makes reconciling these accounts easy. And the
@@ -83,7 +83,7 @@ interest income.
    Options) when you set up taxable income accounts. Some types of
    income, such as gift income, may not be considered taxable, so check
    the appropriate tax rules to determine what is taxable. For ways to
-   track capital gains income, refer to `??? <#chapter_capgain>`__.
+   track capital gains income, refer to :ref:`chapter_capgain`.
 
 Before you start entering paycheck deposits, decide how much detail you
 want to track. The basic level of detail is to enter your net pay, just
@@ -159,7 +159,7 @@ reconciled too? If you receive a statement for the account, then you
 should consider reconciling that account. Examples include the checking
 account statement, the savings account statement, and the credit card
 statement. Credit card statements and credit card transactions are
-covered in the `??? <#chapter_cc>`__, so if you are interested in
+covered in the :ref:`chapter_cc`, so if you are interested in
 tracking your credit cards in GnuCash, take a look at the instructions
 provided there.
 
@@ -175,7 +175,7 @@ balances is covered in the next section.
 Putting It All Together
 -----------------------
 
-In `??? <#chapter_txns>`__, you entered some transactions in your
+In :ref:`chapter_txns`, you entered some transactions in your
 checking account. In this chapter, we will add more transactions and
 then reconcile them.
 

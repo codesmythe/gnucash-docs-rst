@@ -231,7 +231,7 @@ Experienced users can flip to the “How-To” sections to quickly scan
 procedures. These sections provide to-the-point steps for accomplishing
 specific tasks. The “Putting It All Together” sections present
 real-world examples in the form of a tutorial. Beginning with creation
-of a file in `??? <#chapter_basics>`__, each successive chapter builds
+of a file in :ref:`chapter_basics`, each successive chapter builds
 on the previous chapter’s tutorial.
 
 This manual is organized into 3 main parts:
@@ -251,16 +251,16 @@ up and running:
 -  `Overview <#chapter_oview>`__ - (this chapter) gives a general
    overview of GnuCash
 
--  `??? <#chapter_basics>`__ - gives users a very brief introduction to
+-  :ref:`chapter_basics` - gives users a very brief introduction to
    accounting principles, and then provides information about how
    GnuCash structures its data. There is also information on basic
    interface elements in GnuCash. Finally, this chapter explains how
    GnuCash stores and manages your data.
 
--  `??? <#chapter_accts>`__ - gives further information about accounts
+-  :ref:`chapter_accts` - gives further information about accounts
    and how to organize them.
 
--  `??? <#chapter_txns>`__ - gives basic information about transactions
+-  :ref:`chapter_txns` - gives basic information about transactions
    and how to enter them.
 
 *Managing Personal Finances* addresses common applications and features
@@ -268,48 +268,48 @@ of GnuCash in greater detail. You will see more specific cases, based on
 frequently asked questions about applying GnuCash to everyday
 situations. Here are the applications and features covered in this part:
 
--  `??? <#chapter_cbook>`__
+-  :ref:`chapter_cbook`
 
--  `??? <#chapter_cc>`__
+-  :ref:`chapter_cc`
 
--  `??? <#chapter_loans>`__
+-  :ref:`chapter_loans`
 
--  `??? <#chapter_invest>`__
+-  :ref:`chapter_invest`
 
--  `??? <#chapter_capgain>`__
+-  :ref:`chapter_capgain`
 
--  `??? <#chapter_currency>`__
+-  :ref:`chapter_currency`
 
 *Managing Business Finances* discusses the use of GnuCash in business
 accounting:
 
--  `??? <#chapter_bus_features>`__
+-  :ref:`chapter_bus_features`
 
--  `??? <#chapter_budgets>`__
+-  :ref:`chapter_budgets`
 
--  `??? <#chapter_other_assets>`__
+-  :ref:`chapter_other_assets`
 
--  `??? <#chapter_dep>`__
+-  :ref:`chapter_dep`
 
--  `??? <#ch_python_bindings>`__
+-  :ref:`ch_python_bindings`
 
--  `??? <#ch_import_bus_data>`__
+-  :ref:`ch_import_bus_data`
 
 This manual also includes several appendices, which contains extra
 information you might want to know:
 
 -  `??? <#gnc-gloss>`__ - Glossary of terms used in GnuCash
 
--  `??? <#appendixa>`__ - Guide for former Quicken, MS Money or other
+-  :ref:`appendixa` - Guide for former Quicken, MS Money or other
    QIF users
 
--  `??? <#appendixb>`__
+-  :ref:`appendixb`
 
--  `??? <#appendixc>`__
+-  :ref:`appendixc`
 
--  `??? <#appendixd>`__
+-  :ref:`appendixd`
 
--  `??? <#fdl>`__
+-  :ref:`fdl`
 
 Last, but not least, a glossary and index help you quickly locate
 topics.

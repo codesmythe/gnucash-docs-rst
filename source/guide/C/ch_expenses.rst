@@ -49,7 +49,7 @@ Complex Expense Account Setup
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you have different expense accounting needs, you can refer to
-`??? <#chapter_txns>`__, or Chapter 5.4 in the Help manual for
+:ref:`chapter_txns`, or Chapter 5.4 in the Help manual for
 instructions on how to create accounts.
 
 Typical reasons for adding new or different expense accounts include: to

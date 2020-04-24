@@ -239,7 +239,7 @@ money you pay on utilities or groceries. Even though these are not
 accounts that receive statements, they allow you to determine how much
 money is being spent in each of these areas.
 
-Accounts will be covered in more detail in `??? <#chapter_accts>`__.
+Accounts will be covered in more detail in :ref:`chapter_accts`.
 
 .. _basics-transactions2:
 
@@ -252,7 +252,7 @@ a transaction.
 
 Examples of transactions are: paying a phone bill, transferring money
 from savings to checking, buying a pizza, withdrawing money, and
-depositing a paycheck. `??? <#chapter_txns>`__ goes more in depth on how
+depositing a paycheck. :ref:`chapter_txns` goes more in depth on how
 to enter transactions.
 
 In `double entry accounting <#basics-accountingdouble2>`__, transactions
@@ -455,14 +455,14 @@ As the name suggests, they look similar to a checkbook register.
 
 |The Checking Account Register|
 
-`??? <#chapter_txns>`__ explains more about account register windows and
+:ref:`chapter_txns` explains more about account register windows and
 how to enter data into them. For now, note that the parts of an account
 register window are similar to the parts of the account tree window
 described earlier. The *Titlebar* at the top contains the account name.
 Below that, the *Menubar* contains menu options related to the account
 register. *Toolbar* buttons simplify common data entry functions. The
 *Statusbar* at the bottom of the window, displays some account balances
-covered in `??? <#chapter_txns>`__. At the bottom of the account
+covered in :ref:`chapter_txns`. At the bottom of the account
 register window, information appears about the current location of the
 cursor.
 
@@ -502,9 +502,9 @@ Close
 
 Open, Edit, New and Delete
    These are functions related to accounts. They are discussed in
-   `??? <#chapter_accts>`__.
+   :ref:`chapter_accts`.
 
-Register-specific buttons are discussed in `??? <#chapter_txns>`__.
+Register-specific buttons are discussed in :ref:`chapter_txns`.
 
 .. _basics-tabbar:
 
