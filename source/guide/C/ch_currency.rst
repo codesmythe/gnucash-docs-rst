@@ -166,7 +166,7 @@ Recording and Updating Currency Exchange Rates
 
 GnuCash allows you to update the Currency Exchange Rates both manually
 and automatically. This process is essentially the same as setting share
-prices for investments (see `??? <#invest-stockprice1>`__). In the
+prices for investments (see :ref:`invest-stockprice1`). In the
 following two sections we will work through both methods.
 
 Before we start, let’s have a quick look at the Chart of Accounts
@@ -225,14 +225,14 @@ exchange rates you need.
 
    If the Get Quotes button is disabled, that means that the Perl module
    Finance::Quote is not installed. For information on how to install
-   it, please see `??? <#invest-stockprice-auto2>`__
+   it, please see :ref:`invest-stockprice-auto2`
 
 Price Editor window Price Editor Window after we obtained online quotes.
 
 GnuCash downloads exchange rates for all currencies that are in use in
 your various accounts. This will happen every time you click on Get
 Quotes or request GnuCash to download quotes as per
-`??? <#invest-stockprice-auto2>`__
+:ref:`invest-stockprice-auto2`
 
 Now when you check the main Chart of Accounts you will see that GnuCash
 has automatically converted the HKD amount to USD amount on the parent
@@ -510,7 +510,7 @@ Selling a currency investment
 
 Entering a currency sale is done in the same way as a currency buy
 except that you are now transferring money from the Currency account to
-your Savings account (very similar to `??? <#invest-sell1>`__).
+your Savings account (very similar to :ref:`invest-sell1`).
 
 The proper recording of the currency sale \*must\* account for realized
 gains or losses. This can be done using a split transaction. In the

@@ -266,7 +266,7 @@ arbitrary number of splits.
 .. note::
 
    Splits in transactions will be covered in
-   `??? <#txns-registers-multiaccount2>`__
+   :ref:`txns-registers-multiaccount2`
 
 .. _basics-running-gnucash:
 
@@ -297,7 +297,7 @@ GnuCash! screen. This dialog includes three choices:
    be assisted in creating a set of accounts.
 
 -  Import my QIF files - Runs the Import QIF Files assistant (see
-   `??? <#importing-qif>`__). Select this option if you already have
+   :ref:`importing-qif`). Select this option if you already have
    Quicken files (``.qif`` files) and wish to import them into GnuCash.
 
 -  Open the new user tutorial - Opens the GnuCash Tutorial and Concepts
@@ -310,7 +310,7 @@ GnuCash! screen. This dialog includes three choices:
    screen, but the Welcome to GnuCash! screen will not reappear. To
    create a new set of accounts, see `New Account Hierarchy
    Setup <#basics-acct-hierarchy>`__. To import QIF files, see
-   `??? <#importing-qif>`__.
+   :ref:`importing-qif`.
 
 .. _basics-acct-hierarchy:
 
@@ -335,7 +335,7 @@ in the assistant, which are outlined below.
 3. Choose Currency sets the default currency for new accounts. This is
    based on the computer locale settings, and can be modified later in
    the Accounts tab under Preferences (see
-   `??? <#configuring-preferences-accounts>`__).
+   :ref:`configuring-preferences-accounts`).
 
 4. Choose accounts to create allows you to create an initial set of
    accounts. These can be edited as needed afterward. The screen is
@@ -1101,7 +1101,7 @@ Let’s get started!
 
       If you want, you can select one or more of the predefined
       account-groups here. For more information on account types, see
-      `??? <#accts-types1>`__.
+      :ref:`accts-types1`.
 
    .. figure:: figures/basics_NewAccountHierarchySetup_Accounts.png
       :alt: New Account Hierarchy Setup: Account Selection

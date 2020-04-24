@@ -298,7 +298,7 @@ accounting:
 This manual also includes several appendices, which contains extra
 information you might want to know:
 
--  `??? <#gnc-gloss>`__ - Glossary of terms used in GnuCash
+-  :ref:`gnc-gloss` - Glossary of terms used in GnuCash
 
 -  :ref:`appendixa` - Guide for former Quicken, MS Money or other
    QIF users

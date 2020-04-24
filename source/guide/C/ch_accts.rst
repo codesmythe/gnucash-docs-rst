@@ -250,7 +250,7 @@ track these.
 .. tip::
 
    Credits increase income account balances and debits decrease them. As
-   described in `??? <#basics-accounting1>`__, credits represent money
+   described in :ref:`basics-accounting1`, credits represent money
    transferred *from* an account. So in these special income accounts,
    when you transfer money *from* (credit) the income account to another
    account, the balance of the income account *increases*. For example,

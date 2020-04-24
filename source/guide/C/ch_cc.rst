@@ -306,7 +306,7 @@ When your credit card bill arrives you should reconcile your credit card
 account to this document. This is done using GnuCash’s built-in
 reconciliation application. Highlight the credit card account and click
 on Actions > Reconcile.... This reconciliation procedure is described in
-detail in the `??? <#txns-reconcile1>`__, but we will step through the
+detail in the :ref:`txns-reconcile1`, but we will step through the
 process here as well. For this example, let’s assume that the credit
 card statement is dated May 1st, with a final balance of $455. Enter
 these values in to the initial Reconcile window as shown here.

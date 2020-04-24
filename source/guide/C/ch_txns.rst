@@ -290,7 +290,7 @@ The R field indicates whether the split has been reconciled. The last
 two columns show the amount of the split and whether money is coming
 into or going out of the account.
 
-As we discussed in `??? <#basics-accounting1>`__, total debits
+As we discussed in :ref:`basics-accounting1`, total debits
 (left-column entries) must equal total credits (right-column entries)
 for each transaction. In the example shown above, the total debits equal
 the total credits, so this transaction is balanced. If you notice, the
@@ -368,7 +368,7 @@ account, then enter the amount by which to change the account. Keep in
 mind that when in an asset account register, amounts entered in the left
 column increase the account balance, while amounts entered in the right
 column decrease the balance (for more about this, see
-`??? <#basics-transactions2>`__). Tab or click the next split line and
+:ref:`basics-transactions2`). Tab or click the next split line and
 repeat the process. Note that if you are using the keyboard to navigate
 the transaction, use Tab to move from field to field, as using Enter
 will commit the transaction and create splits to an Imbalance account.

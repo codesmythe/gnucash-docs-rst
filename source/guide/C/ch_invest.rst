@@ -1250,7 +1250,7 @@ Pricing
    21st 2006. This is because the register is in Auto-Split Ledger view
    and there are 2 splits for the register account in the 1 transaction.
    Transaction Journal view may be clearer. Refer to
-   `??? <#txns-registers-txntypes>`__. As there are 2 splits for the
+   :ref:`txns-registers-txntypes`. As there are 2 splits for the
    register account in the sale transaction, this transaction must be
    entered in Auto-Split Ledger or Transaction Journal view. It cannot
    be entered in Basic Ledger view.
@@ -1424,7 +1424,7 @@ and `Average cost
 method <https://en.wikipedia.org/wiki/Average_cost_method>`__.
 
 If you are not familiar with the difference between GnuCash transactions
-and splits, please see `??? <#txns-registers-txntypes>`__.
+and splits, please see :ref:`txns-registers-txntypes`.
 
 The GnuCash lot management facility can be a useful feature, reducing
 manual calculation, especially if dividends have been reinvested over

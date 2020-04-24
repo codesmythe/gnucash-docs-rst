@@ -538,7 +538,7 @@ reached a 0 in difference, then your loan account is reconciled and you
 can finish the Reconcile assistant.
 
 For more information on how to Reconcile, please check
-`??? <#txns-reconcile1>`__
+:ref:`txns-reconcile1`
 
 Selling a house or a car (How-To)
 ---------------------------------

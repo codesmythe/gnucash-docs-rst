@@ -16,7 +16,7 @@ Using Accounts vs. Categories
 If you are familiar with other personal finance programs, you are
 already accustomed to tracking your income and expenses as categories.
 Since GnuCash is a double-entry system (see
-`??? <#basics-accounting1>`__), income and expenses are tracked in
+:ref:`basics-accounting1`), income and expenses are tracked in
 accounts. The basic concept is the same, but the account structure
 allows more consistency with accepted business practices. So, if you are
 a business user as well as a home user, GnuCash makes it easy to keep
@@ -35,7 +35,7 @@ that method. In Quicken and similar programs, transactions require an
 account and a category. Substitute an income or expense account name in
 GnuCash where you would normally enter a category name in the other
 programs, and the result should be the same. We will discuss transaction
-entry in `??? <#basics-transactions2>`__ in greater detail.
+entry in :ref:`basics-transactions2` in greater detail.
 
 .. _appendixa_import:
 

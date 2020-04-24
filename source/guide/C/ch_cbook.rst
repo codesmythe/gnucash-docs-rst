@@ -29,7 +29,7 @@ Setting up Accounts
 The first step in managing your checkbook is to set up the necessary
 accounts. You can either use the default GnuCash accounts or set up your
 own. For more detail on how to set up a new account, refer to
-`??? <#accts-examples-toplevel2>`__. For instructions on importing your
+:ref:`accts-examples-toplevel2`. For instructions on importing your
 accounts from another program, refer to the GnuCash manual.
 
 Let’s start with the bank accounts you’ll need. You need one GnuCash
@@ -150,7 +150,7 @@ Reconciling Your Accounts
 -------------------------
 
 GnuCash makes reconciliation of your bank account with your monthly bank
-statement much easier. `??? <#txns-reconcile1>`__ gives instructions on
+statement much easier. :ref:`txns-reconcile1` gives instructions on
 how to reconcile your transactions with the monthly bank statement. This
 is the main reconciliation task that should be done every month.
 
