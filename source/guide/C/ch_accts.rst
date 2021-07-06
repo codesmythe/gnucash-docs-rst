@@ -292,7 +292,7 @@ There are some special other account types.
 accounts to make the transaction balance in each currency as well as in
 total value. See :ref:`chapter_currency` for more information.
 
-*Money Market* and *Credit Line*\ are used only in the OFX importer,
+*Money Market* and *Credit Line* are used only in the OFX importer,
 apparently for completeness with the specification.
 
 .. _accts-examples1:
