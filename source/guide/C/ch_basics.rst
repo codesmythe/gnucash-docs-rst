@@ -87,7 +87,7 @@ Debits and Credits
 
 The use of debits and credits in accounting and their effect on accounts
 of different types is often confusing when first encountered in
-acccounting. The accounting equation introduced above is the key to
+accounting. The accounting equation introduced above is the key to
 understanding which accounts types are debited or credited and when.
 First of all we need to rearrange the expanded form a little bit with
 Assets on the left hand side of the equal sign and transposing any
