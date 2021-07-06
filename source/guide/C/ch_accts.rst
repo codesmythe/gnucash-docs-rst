@@ -117,25 +117,25 @@ you remember from the previous section, refers to things you own.
 To help you organize your asset accounts and to simplify transaction
 entry, GnuCash supports several types of asset accounts:
 
-1. Cash Use this account to track the money you have on hand, in your
+1. Cash: Use this account to track the money you have on hand, in your
    wallet, in your piggy bank, under your mattress, or wherever you
    choose to keep it handy. This is the most *liquid*, or easily traded,
    type of asset.
 
-2. Bank This account is used to track your cash balance that you keep in
+2. Bank: This account is used to track your cash balance that you keep in
    institutions such as banks, credit unions, savings and loan, or
    brokerage firms - wherever someone else safeguards your money. This
    is the second most *liquid* type of account, because you can easily
    convert it to cash on hand.
 
-3. Stock Track your individual stocks and bonds using this type of
+3. Stock: Track your individual stocks and bonds using this type of
    account. The stock account’s register provides extra columns for
    entering number of shares and price of your investment. With these
    types of assets, you may not be able to easily convert them to cash
    unless you can find a buyer, and you are not guaranteed to get the
    same amount of cash you paid for them.
 
-4. Mutual Fund This is similar to the stock account, except that it is
+4. Mutual Fund: This is similar to the stock account, except that it is
    used to track funds. Its account register provides the same extra
    columns for entering share and price information. Funds represent
    ownership shares of a variety of investments, and like stocks they do
@@ -143,7 +143,7 @@ entry, GnuCash supports several types of asset accounts:
 
    GnuCash treats account types Stock and Mutual Fund the same.
 
-5. Accounts Receivable (A/Receivable) This is typically a business use
+5. Accounts Receivable (A/Receivable): This is typically a business use
    only account in which you place outstanding debts owed to you. It is
    considered an asset because you should be able to count on these
    funds arriving.
@@ -155,7 +155,7 @@ entry, GnuCash supports several types of asset accounts:
 
    -  process payment
 
-6. Asset No matter how diverse they are, GnuCash handles many other
+6. Asset: No matter how diverse they are, GnuCash handles many other
    situations easily. The account type “Asset”, covers all assets not
    listed above.
 
@@ -185,13 +185,13 @@ much debt you have at a given point in time.
 
 GnuCash offers three liability account types:
 
-1. Credit Card Use this to track your credit card receipts and reconcile
+1. Credit Card: Use this to track your credit card receipts and reconcile
    your credit card statements. Credit cards represent a short-term loan
    that you are obligated to repay to the credit card company. This type
    of account can also be used for other short-term loans such as a line
    of credit from your bank.
 
-2. Accounts Payable (A/Payable) This is typically a business use only
+2. Accounts Payable (A/Payable): This is typically a business use only
    account in which you place bills you have yet to pay.
 
    Transactions involving an Accounts Payable account should not be
@@ -201,7 +201,7 @@ GnuCash offers three liability account types:
 
    -  process payment
 
-3. Liability Use this type of account for all other loans, generally
+3. Liability: Use this type of account for all other loans, generally
    larger long-term loans such as a mortgage or vehicle loan. This
    account can help you keep track of how much you owe and how much you
    have already repaid.
