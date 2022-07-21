@@ -21,7 +21,8 @@ layout of a page (number of checks, orientation, etc) and then describes
 the layout of the specific items on a single check. The file is
 organized as a typical Key/Value file used by many Linux applications.
 Keys/values pairs are grouped into sections that begin with the group
-name enclosed in square brackets.
+name enclosed in square brackets. Units for angles are degrees and length
+and coordinate units are PostScript (PS) points (72 PS points = 1 inch).
 
 GnuCash looks for check format files in two different locations when you
 bring up the check printing dialog. The first location is typically
@@ -35,7 +36,7 @@ available check formats.
 
 .. note::
 
-   Printing functions differently depending on the version of GTK that
+   Printing functions behave differently depending on the version of GTK that
    is installed on your system. When GnuCash is using a version of GTK
    prior to 2.10 all offsets are measured from the lower left corner of
    the page or check. When using GTK 2.10 or later, all offsets are
