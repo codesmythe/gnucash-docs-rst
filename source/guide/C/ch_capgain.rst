@@ -177,7 +177,7 @@ account (*Income:Unrealized Gains*) to your asset Unrealized Gains
 account (*Assets:Fixed Assets:Degas:Unrealized Gain*). Your main window
 will resemble this:
 
-|Asset Appreciation Main Window|
+|Asset Appreciation Main Window 10Perc Gain|
 
 .. _capgain_examplesell2:
 
@@ -234,7 +234,7 @@ unrealized gain, *underestimated* the unrealized gain, or
    a total of $130000 and *Income:Realized Gains* with a total of
    $30000.
 
-   |Asset Appreciation Main Window|
+   |Asset Appreciation Main Window 30Perc Gain|
 
 2. *Under estimation* of unrealized gain.
 
@@ -341,5 +341,5 @@ The point of this story is that while the presentation here is fairly
 simple, taxation often gets terribly complicated...
 
 .. |Asset Appreciation Main Window| image:: figures/capgain_appmain.png
-.. |Asset Appreciation Main Window| image:: figures/capgain_app2main.png
-.. |Asset Appreciation Main Window| image:: figures/capgain_app3main.png
+.. |Asset Appreciation Main Window 10Perc Gain| image:: figures/capgain_app2main.png
+.. |Asset Appreciation Main Window 30Perc Gain| image:: figures/capgain_app3main.png
